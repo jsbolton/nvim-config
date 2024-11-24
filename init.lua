@@ -599,6 +599,7 @@ vim.g.rustaceanvim = {
           buildScripts = {
             enable = true,
           },
+          features = 'all'
         },
         procMacro = {
           enable = true
